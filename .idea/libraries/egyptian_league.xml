@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="egyptian_league">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/egyptian_league.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
